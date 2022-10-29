@@ -1,1 +1,1 @@
-from registry.k8s.io/etcd:3.5.4-0
+from registry.k8s.io/pause:3.8

@@ -1,1 +1,1 @@
-from docker.io/rancher/mirrored-flannelcni-flannel-cni-plugin:v1.1.0
+from docker.io/rancher/mirrored-flannelcni-flannel:v0.20.0

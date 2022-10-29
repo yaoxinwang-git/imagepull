@@ -1,1 +1,1 @@
-from registry.k8s.io/pause:3.8
+from docker.io/rancher/mirrored-flannelcni-flannel-cni-plugin:v1.1.0
